@@ -13,4 +13,9 @@ dev-env:
     operating-system : arch linux,
     terminal : kitty
 
+stuff-I-know-and-learning: 
+    software-dev:
+        python: ['core-lang', 'pygame', 'tkinter', 'pyTorch', 'tensorflow']
+        c/cpp: ['core-lang']
+
 ```
