@@ -11,7 +11,7 @@ contact: {
 dev-env: {
     primary-editor : neovim,
     secondary-editor : VSCode,
-    operating-system : arch linux  ,
+    operating-system : arch linux,
     terminal : kitty
 }
 ```
