@@ -14,7 +14,7 @@ dev-env:
     terminal : kitty
 
 stuff-I-know-and-learning: 
-    software-dev:
+    software:
         python: ['core-lang', 'pygame', 'tkinter', 'pyTorch', 'tensorflow']
         c/cpp: ['core-lang', 'build-chain', 'cmake', 'SFML']
         lua: ['basic just for neovim']
