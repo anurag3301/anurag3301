@@ -6,5 +6,12 @@ contact: {
     reddit : anurag3301,
     twitter : anurag3301,
     linkedIN: /in/anurag3301
+},
+
+dev-env: {
+    primary-editor : neovim,
+    secondary-editor : VSCode,
+    operating-system : arch linux  ,
+    terminal : kitty
 }
 ```
