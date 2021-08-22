@@ -25,5 +25,6 @@ stuff-I-know-and-learning:
     
     hardware:
         arduino: ['UNO', 'Mega', 'ProMicro', 'Nano']
+        esp: ['NodeMCU', 'ESP8266', 'BoltIOT']
 
 ```
