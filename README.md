@@ -22,5 +22,8 @@ stuff-I-know-and-learning:
         python: ['core-lang', 'pygame', 'tkinter', 'pyTorch', 'tensorflow']
         c/cpp: ['core-lang', 'build-chain', 'cmake', 'SFML']
         lua: ['basic just for neovim']
+    
+    hardware:
+        arduino: ['UNO', 'Mega', 'ProMicro', 'Nano']
 
 ```
