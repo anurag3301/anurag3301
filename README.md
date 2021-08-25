@@ -9,7 +9,7 @@ contact:
     
 engg-envs:
     codeforces : anurag3301
-    codeforces-rating: 635(newbie)
+    codeforces-rating: 858(newbie)
 
 dev-env: 
     primary-editor : neovim
