@@ -7,7 +7,7 @@ contact:
     twitter : anurag3301
     linkedIN: /in/anurag3301
     
-engg-envs:
+engg-profiles:
     codeforces : anurag3301
     codeforces-rating: 860(newbie)
 
