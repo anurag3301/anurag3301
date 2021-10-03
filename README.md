@@ -9,7 +9,7 @@ contact:
     
 engg-profiles:
     codeforces : anurag3301
-    codeforces-rating: 860(newbie)
+    codeforces-rating: 928(newbie)
     codechef : anurag3301
     codechef-rating: 0(1 star)
 
