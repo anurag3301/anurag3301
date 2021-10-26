@@ -6,6 +6,7 @@ contact:
     reddit : anurag3301
     twitter : anurag3301
     linkedIN: /in/anurag3301
+    matrix: @anurag3301:matrix.org
     
 engg-profiles:
     codeforces : anurag3301
