@@ -13,8 +13,6 @@ engg-profiles:
     codeforces-rating: 977(newbie)
     codechef : anurag3301
     codechef-rating: 1505(2 star)
-    stackoverflow : users/14218973
-    stackoverflow-rep : 21
 
 dev-env: 
     primary-editor : neovim
