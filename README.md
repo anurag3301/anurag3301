@@ -1,7 +1,7 @@
 ```yaml
 contact: 
     email : anuragkumar07102003@gmail.com
-    discord : anurag3301#3301
+    discord : anurag3301#4544
     instagram : anurag.3301
     reddit : anurag3301
     twitter : anurag3301
