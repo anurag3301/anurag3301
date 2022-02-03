@@ -12,7 +12,7 @@ engg-profiles:
     codeforces : anurag3301
     codeforces-rating: 980(newbie)
     codechef : anurag3301
-    codechef-rating: 1505(2 star)
+    codechef-rating: 1520(2 star)
 
 dev-env: 
     primary-editor : neovim
