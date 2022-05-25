@@ -15,8 +15,7 @@ engg-profiles:
     codechef-rating: 1520(2 star)
 
 dev-env: 
-    primary-editor : neovim
-    secondary-editor : VSCode
+    editor : neovim
     operating-system : arch linux
     terminal : kitty
 
