@@ -22,8 +22,8 @@ dev-env:
 stuff-I-know-and-learning: 
     software:
         python: ['core-lang', 'pygame', 'tkinter', 'pyTorch', 'tensorflow']
-        c/cpp: ['core-lang', 'build-chain', 'cmake', 'SFML']
-        lua: ['basic just for neovim']
+        c/cpp: ['core-lang', 'build-chain', 'cmake']
+        lua: ['neovim plugin']
         bash: ['basic scripting']
     
     hardware:
