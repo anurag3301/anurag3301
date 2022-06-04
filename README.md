@@ -20,11 +20,12 @@ dev-env:
     terminal : kitty
 
 stuff-I-know-and-learning: 
-    software:
-        python: ['core-lang', 'pygame', 'tkinter', 'pyTorch', 'tensorflow']
-        c/cpp: ['core-lang', 'build-chain', 'cmake']
-        lua: ['neovim plugin']
-        bash: ['basic scripting']
+    software: [
+                'python',
+                'C/C++',
+                'bash',
+                'lua'
+              ]
     
     hardware:
         arduino: ['UNO', 'Mega', 'ProMicro', 'Nano']
