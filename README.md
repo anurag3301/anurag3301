@@ -1,4 +1,7 @@
 ```yaml
+PGP: [ 3E0DB3EBA7B4D929,
+      'https://meta.sr.ht/~anurag3301.pgp']
+
 contact: 
     email : anuragkumar07102003@gmail.com
     discord : anurag3301#4544
