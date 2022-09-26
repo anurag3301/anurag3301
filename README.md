@@ -1,9 +1,9 @@
 ```yaml
-PGP: [ 3E0DB3EBA7B4D929,
+PGP: [ E46B6F176910EA41,
       'https://meta.sr.ht/~anurag3301.pgp']
 
 contact: 
-    email : anuragkumar07102003@gmail.com
+    email : anurag3301.0x0@gmail.com
     discord : anurag3301#4544
     instagram : anurag.3301
     reddit : anurag3301
