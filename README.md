@@ -4,7 +4,7 @@ PGP: [ E46B6F176910EA41,
 
 contact: 
     email : anurag3301.0x0@gmail.com
-    discord : anurag3301#4544
+    discord : anurag3301
     instagram : anurag.3301
     reddit : anurag3301
     twitter : anurag3301
