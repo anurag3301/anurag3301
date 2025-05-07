@@ -1,3 +1,6 @@
+![1720024896838](https://github.com/user-attachments/assets/3b403459-aca9-41f1-a288-6c752361814e)
+
+
 ```yaml
 PGP: [ E46B6F176910EA41,
       'https://meta.sr.ht/~anurag3301.pgp']
@@ -36,5 +39,4 @@ stuff-I-know-and-learning:
         RPi: ['Pi3 b+', 'Pi4 4GB', 'Pico MCU']
         STM32: ['STM32F401CCU6']
 ```
-[![@anurag3301's Holopin board](https://holopin.me/anurag3301)](https://holopin.io/@anurag3301)
 
