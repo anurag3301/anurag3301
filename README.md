@@ -25,10 +25,12 @@ stuff-I-know-and-learning:
     embedded: ['yocto', 'u-boot', 'linux', 'buildroot']
 
     hardware:
+        Ti: [DM3730, AM3358]
+        NXP: [i.MX 6]
+        STM32: ['STM32F401']
         arduino: ['UNO', 'Mega', 'ProMicro', 'Nano']
         esp: ['NodeMCU', 'ESP8266']
         RPi: ['Pi3 b+', 'Pi4 4GB', 'Pico MCU']
-        STM32: ['STM32F401']
-        Ti: [DM3730, AM3358]
 ```
+
 
